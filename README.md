@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Learning React Demo
+
+Last Edit: 2020-12
+Start Date: 2020-11-20
+
+Learning React from basic by build a simple app named Vidly:
+
+![sample_ui.png](sample_ui.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
